@@ -65,7 +65,6 @@
     <Compile Include="Assets\Scripts\Balloon.cs" />
     <Compile Include="Assets\Scripts\BalloonSpawner.cs" />
     <Compile Include="Assets\Scripts\CreateLine.cs" />
-    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/2019.4.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
